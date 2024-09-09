@@ -41,6 +41,7 @@ const decimalToRoman = () =>{
 
    output.textContent = roman;
   }
+  input.value="";
 }
 
 
